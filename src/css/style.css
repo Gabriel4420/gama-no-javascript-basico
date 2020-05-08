@@ -1,3 +1,13 @@
 .formulario {
   margin-top: 5%;
 }
+
+.jumbotron{
+  background-color: rgb(66, 114, 247);
+  color: white;
+}
+
+#sizing-addon1{
+  background-color: rgb(66, 114, 247);
+  color: white;
+}
